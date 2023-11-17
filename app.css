@@ -1,0 +1,94 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.top-bar{
+    display: flex;
+}
+
+.todays-news{
+
+}
+
+.islands{
+
+}
+
+.main-bar{
+    display: flex;
+}
+
+.header-icon-menu{
+
+}
+
+.web-title{
+
+}
+
+.user-area{
+    display: flex;
+}
+
+.user-login{
+
+}
+
+.user.register{
+
+}
+
+.main-menu{
+    display: flex;
+}
+
+.news-block {
+
+}
+
+.ad{
+
+}
+
+.one-column {
+    display: flex;
+}
+
+.news {
+    display: flex;
+}
+
+.news-image {
+
+}
+
+.news-type {
+
+}
+
+.news-title {
+
+}
+
+.news-description {
+
+}
+
+.news-author {
+
+}
+
+.two-columns {
+    display: flex;
+    gap: 20px;
+}
+
+.three-columns {
+    display: flex;
+}
+
+.four-columns {
+    display: flex;
+}
+
