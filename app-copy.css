@@ -243,6 +243,7 @@ svg {
 }
 
 .news {
+    flex: 1;
     gap: 2rem;
 }
 
@@ -293,11 +294,9 @@ svg {
     background-image: linear-gradient(to right, hsl(0, 0%, 91%) 0%, hsl(0, 0%, 91%)25%, hsl(0, 100%, 50%) 25%, rgb(255, 0, 0) 75%, hsl(0, 0%, 91%)75%, hsl(0, 0%, 91%)100%);
 }
 
-.block-specific{
-}
 
 .four-columns {
     display: flex;
-    gap: 30px;
+    gap: 1rem;
 }
 
